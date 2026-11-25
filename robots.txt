@@ -1,10 +1,5 @@
-# robots.txt de trilhas.exemplo.com
+# robots.txt — Projeto Olimpo (https://lureal35.github.io/Olimpo/)
 User-agent: *
-Disallow: /rascunhos/
-Disallow: /busca
-Allow: /rascunhos/publico.html
- 
-User-agent: GPTBot
-Disallow: /
- 
+Allow: /
+
 Sitemap: https://lureal35.github.io/Olimpo/sitemap.xml
